@@ -51,7 +51,7 @@ DB에 저장된 답은 미리 저장된 NPC의 답과 비교하여 가장 비슷
 <p align="center"><img src="https://github.com/KIMGUUNI/Kingteam/assets/142488092/33a61329-592c-4fdd-bec8-c607840d1d6d" width="300" height="450"/></p>
 
 
-- **그림문자 출력** 
+- **그림문자 출력** 📌 [코드 확인](https://github.com/KIMGUUNI/Kingteam/blob/master/Question/src/question/Question.java)
   - Thread를 이용하여 문자를 순서대로 출력하여 그림처럼 구현하였습니다.
   
 
