@@ -55,7 +55,7 @@ DB에 저장된 답은 미리 저장된 NPC의 답과 비교하여 가장 비슷
   - Thread를 이용하여 문자를 순서대로 출력하여 그림처럼 구현하였습니다.
   
 
-- **mp3파일 출력** :pushpin: [코드 확인]()
+- **mp3파일 출력** :pushpin: [코드 확인](https://github.com/KIMGUUNI/Kingteam/blob/master/Question/src/question/mp3Player.java)
   - 그림문자가 끝나면 배경음악이 나오게 mp3파일을 재생합니다.
  
     </br>
@@ -65,7 +65,7 @@ DB에 저장된 답은 미리 저장된 NPC의 답과 비교하여 가장 비슷
 ![image](https://github.com/KIMGUUNI/Kingteam/assets/142488092/0782d1a6-f798-4e47-b980-a6f6c27412cd)
 
 
-- **회원 정보 DB저장** :pushpin: [코드 확인]
+- **회원 정보 DB저장** :pushpin: [코드 확인](https://github.com/KIMGUUNI/Kingteam/blob/master/Question/src/question/MemberDAO.java)
   - 회원가입과 로그인 회원탈퇴 등 회원 정보들을 DB에 저장하고 관리합니다.
 
 </br>
@@ -75,7 +75,7 @@ DB에 저장된 답은 미리 저장된 NPC의 답과 비교하여 가장 비슷
 ![image](https://github.com/KIMGUUNI/Kingteam/assets/142488092/9cb846fb-aa26-46e0-886b-8e97b3b6edb1)
 
 
-- **랜덤 질문 출력** :pushpin: [코드 확인]()
+- **랜덤 질문 출력** :pushpin: [코드 확인](https://github.com/KIMGUUNI/Kingteam/blob/master/Question/src/question/QuestionController.java)
   - 사용자가 40개의 질문 중 일부를 랜덤으로 추출해 질문을 하고 답을 DB에 저장합니다
  
     </br>
@@ -84,7 +84,7 @@ DB에 저장된 답은 미리 저장된 NPC의 답과 비교하여 가장 비슷
 
 
 
-- **랭킹 조회** :pushpin: [코드 확인]()
+- **랭킹 조회** :pushpin: [코드 확인](https://github.com/KIMGUUNI/Kingteam/blob/master/Question/src/question/QuestionController.java)
   - 모든 질문이 끝나면 미리 저장되어있는 NPC의 답을 비교하고 가장 비슷한 답을 한 사람의 순위를 보여줍니다.
 
  </br>
@@ -92,10 +92,10 @@ DB에 저장된 답은 미리 저장된 NPC의 답과 비교하여 가장 비슷
  ![image](https://github.com/KIMGUUNI/Kingteam/assets/142488092/d2d37032-4aa6-406d-8466-0739af209f7c)
 
 
-- **문제 조회** :pushpin: [코드 확인]()
+- **문제 조회** :pushpin: [코드 확인](https://github.com/KIMGUUNI/Kingteam/blob/master/Question/src/question/QuestionController.java)
   - 사용자가 풀었던 문제와 풀지 않은 문제를 구분하여 출력합니다.
 
-- **질문 초기화** :pushpin: [코드 확인]()
+- **질문 초기화** :pushpin: [코드 확인](https://github.com/KIMGUUNI/Kingteam/blob/master/Question/src/question/QuestionController.java)
   - 사용자의 질문 정보를 모두 초기화합니다.
 
 
